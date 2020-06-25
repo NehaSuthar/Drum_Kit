@@ -1,4 +1,5 @@
 # Drum_Kit
-This a learning project for HTML,CSS and Javascript better understading.
+This a practice project for javascript's event handler concept.
+Webpage allow user to interact using keyboard or mouse event and plays sound based on key pressed.
 
 https://nehasuthar.github.io/Drum_Kit/
